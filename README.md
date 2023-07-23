@@ -45,6 +45,6 @@ Lembrando que para a execução da aplicação em um dispositivo mobile, é prec
 
 ## Autores
 
-imagem
+<img style="width:300px" src="https://avatars.githubusercontent.com/u/57687873?v=4" alt="foto do desenvolvedor">
 
 [Linkedin](https://www.linkedin.com/in/bruno-felipe-608a85219/)
